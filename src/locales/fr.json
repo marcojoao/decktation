@@ -257,5 +257,10 @@
   "Save or discard your changes before creating a profile.": "Enregistrez ou abandonnez vos modifications avant de créer un profil.",
   "Delete profile": "Supprimer le profil",
   "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Supprimer le profil « {name} » et tous ses paramètres ? Les modifications non enregistrées seront également perdues.",
-  "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil."
+  "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil.",
+  "Output volume while recording": "Volume de sortie pendant l’enregistrement",
+  "Unchanged": "Inchangé",
+  "20% of current volume": "20% du volume actuel",
+  "Mute": "Couper le son",
+  "Could not update recording volume": "Impossible de modifier le volume pendant l’enregistrement"
 }

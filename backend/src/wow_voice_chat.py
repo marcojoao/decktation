@@ -286,7 +286,7 @@ class WoWVoiceChat:
                 logger.debug("Could not record diagnostics metric %s", name, exc_info=True)
 
     def _recording_transition(self, state):
-        if self.recording_state_callback:
+        if getattr(self, "recording_state_callback", None):
             try:
                 self.recording_state_callback(state)
             except Exception:
@@ -1282,13 +1282,14 @@ class WoWVoiceChat:
 
                 print("Recording stopped...")
 
-                # Stop audio stream
-                if self.recording_stream:
-                    self.recording_stream.stop()
-                    self.recording_stream.close()
-                    self.recording_stream = None
-
-                self._recording_transition("stopped")
+                # Restore output even if the audio device fails while stopping.
+                try:
+                    if self.recording_stream:
+                        self.recording_stream.stop()
+                        self.recording_stream.close()
+                        self.recording_stream = None
+                finally:
+                    self._recording_transition("stopped")
 
                 # Collect all audio
                 audio_data = []
@@ -1320,6 +1321,7 @@ class WoWVoiceChat:
         with self.recording_lock:
             was_recording = self.is_recording
             self.is_recording = False
+            self._recording_transition("aborted")
 
             stream = self.recording_stream
             if stream:

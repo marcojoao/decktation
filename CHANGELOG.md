@@ -9,6 +9,9 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ### Added
 
+- Optional output volume reduction while recording: keep volume unchanged, lower
+  it to 20%, or mute it, with automatic restoration when capture ends (#91).
+
 - Full-screen game profile editor with searchable channels, editable chat
   prefixes, custom spoken triggers, and recognition keywords for each game.
 

@@ -119,6 +119,8 @@
     var Released$9 = "Released";
     var ms$a = "ms";
     var Paste$9 = "Paste (default)";
+    var Unchanged$9 = "Unchanged";
+    var Mute$9 = "Mute";
     var en$1 = {
       Back: Back$9,
       Enable: Enable$9,
@@ -378,7 +380,12 @@
       "Save or discard your changes before creating a profile.": "Save or discard your changes before creating a profile.",
       "Delete profile": "Delete profile",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.",
-      "Switch to another active profile in Mode before deleting this profile.": "Switch to another active profile in Mode before deleting this profile."
+      "Switch to another active profile in Mode before deleting this profile.": "Switch to another active profile in Mode before deleting this profile.",
+      "Output volume while recording": "Output volume while recording",
+      Unchanged: Unchanged$9,
+      "20% of current volume": "20% of current volume",
+      Mute: Mute$9,
+      "Could not update recording volume": "Could not update recording volume"
     };
 
     var af = "Afrikaans";
@@ -622,6 +629,8 @@
     var Released$8 = "Soltado";
     var ms$8 = "ms";
     var Paste$8 = "Pegar (predeterminado)";
+    var Unchanged$8 = "Sin cambios";
+    var Mute$8 = "Silenciar";
     var es = {
       Back: Back$8,
       Enable: Enable$8,
@@ -881,7 +890,12 @@
       "Save or discard your changes before creating a profile.": "Guarda o descarta los cambios antes de crear un perfil.",
       "Delete profile": "Eliminar perfil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "¿Eliminar el perfil \"{name}\" y todos sus ajustes? También se perderán los cambios sin guardar.",
-      "Switch to another active profile in Mode before deleting this profile.": "Activa otro perfil en Modo antes de eliminar este perfil."
+      "Switch to another active profile in Mode before deleting this profile.": "Activa otro perfil en Modo antes de eliminar este perfil.",
+      "Output volume while recording": "Volumen de salida al grabar",
+      Unchanged: Unchanged$8,
+      "20% of current volume": "20% del volumen actual",
+      Mute: Mute$8,
+      "Could not update recording volume": "No se pudo actualizar el volumen de grabación"
     };
 
     var Back$7 = "Назад";
@@ -922,6 +936,8 @@
     var Released$7 = "Отпущена";
     var ms$7 = "мс";
     var Paste$7 = "Вставка (по умолчанию)";
+    var Unchanged$7 = "Без изменений";
+    var Mute$7 = "Без звука";
     var ru = {
       Back: Back$7,
       Enable: Enable$7,
@@ -1181,7 +1197,12 @@
       "Save or discard your changes before creating a profile.": "Сохраните или отмените изменения перед созданием профиля.",
       "Delete profile": "Удалить профиль",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Удалить профиль «{name}» и все его настройки? Несохранённые изменения также будут потеряны.",
-      "Switch to another active profile in Mode before deleting this profile.": "Перед удалением этого профиля активируйте другой профиль в меню «Режим»."
+      "Switch to another active profile in Mode before deleting this profile.": "Перед удалением этого профиля активируйте другой профиль в меню «Режим».",
+      "Output volume while recording": "Громкость вывода при записи",
+      Unchanged: Unchanged$7,
+      "20% of current volume": "20% текущей громкости",
+      Mute: Mute$7,
+      "Could not update recording volume": "Не удалось изменить громкость при записи"
     };
 
     var Back$6 = "Voltar";
@@ -1222,6 +1243,8 @@
     var Released$6 = "Solto";
     var ms$6 = "ms";
     var Paste$6 = "Colar (padrão)";
+    var Unchanged$6 = "Sem alteração";
+    var Mute$6 = "Silenciar";
     var pt = {
       Back: Back$6,
       Enable: Enable$6,
@@ -1481,7 +1504,12 @@
       "Save or discard your changes before creating a profile.": "Salve ou descarte suas alterações antes de criar um perfil.",
       "Delete profile": "Excluir perfil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Excluir o perfil \"{name}\" e todas as suas configurações? As alterações não salvas também serão perdidas.",
-      "Switch to another active profile in Mode before deleting this profile.": "Ative outro perfil em Modo antes de excluir este perfil."
+      "Switch to another active profile in Mode before deleting this profile.": "Ative outro perfil em Modo antes de excluir este perfil.",
+      "Output volume while recording": "Volume de saída durante a gravação",
+      Unchanged: Unchanged$6,
+      "20% of current volume": "20% do volume atual",
+      Mute: Mute$6,
+      "Could not update recording volume": "Não foi possível atualizar o volume de gravação"
     };
 
     var Back$5 = "Wstecz";
@@ -1522,6 +1550,8 @@
     var Released$5 = "Zwolniony";
     var ms$5 = "ms";
     var Paste$5 = "Wklej (domyślnie)";
+    var Unchanged$5 = "Bez zmian";
+    var Mute$5 = "Wycisz";
     var pl = {
       Back: Back$5,
       Enable: Enable$5,
@@ -1781,7 +1811,12 @@
       "Save or discard your changes before creating a profile.": "Zapisz lub odrzuć zmiany przed utworzeniem profilu.",
       "Delete profile": "Usuń profil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Usunąć profil „{name}” i wszystkie jego ustawienia? Niezapisane zmiany również zostaną utracone.",
-      "Switch to another active profile in Mode before deleting this profile.": "Aktywuj inny profil w menu Tryb przed usunięciem tego profilu."
+      "Switch to another active profile in Mode before deleting this profile.": "Aktywuj inny profil w menu Tryb przed usunięciem tego profilu.",
+      "Output volume while recording": "Głośność wyjścia podczas nagrywania",
+      Unchanged: Unchanged$5,
+      "20% of current volume": "20% bieżącej głośności",
+      Mute: Mute$5,
+      "Could not update recording volume": "Nie udało się zmienić głośności nagrywania"
     };
 
     var Back$4 = "뒤로";
@@ -1822,6 +1857,8 @@
     var Released$4 = "뗌";
     var ms$4 = "밀리초";
     var Paste$4 = "붙여넣기 (기본값)";
+    var Unchanged$4 = "변경 없음";
+    var Mute$4 = "음소거";
     var ko = {
       Back: Back$4,
       Enable: Enable$4,
@@ -2081,7 +2118,12 @@
       "Save or discard your changes before creating a profile.": "프로필을 만들기 전에 변경 사항을 저장하거나 취소하세요.",
       "Delete profile": "프로필 삭제",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "프로필 \"{name}\" 및 모든 설정을 삭제할까요? 저장하지 않은 변경 사항도 사라집니다.",
-      "Switch to another active profile in Mode before deleting this profile.": "이 프로필을 삭제하기 전에 모드에서 다른 프로필을 활성화하세요."
+      "Switch to another active profile in Mode before deleting this profile.": "이 프로필을 삭제하기 전에 모드에서 다른 프로필을 활성화하세요.",
+      "Output volume while recording": "녹음 중 출력 볼륨",
+      Unchanged: Unchanged$4,
+      "20% of current volume": "현재 볼륨의 20%",
+      Mute: Mute$4,
+      "Could not update recording volume": "녹음 중 볼륨을 변경하지 못했습니다"
     };
 
     var Back$3 = "戻る";
@@ -2122,6 +2164,8 @@
     var Released$3 = "解放";
     var ms$3 = "ミリ秒";
     var Paste$3 = "貼り付け（既定）";
+    var Unchanged$3 = "変更しない";
+    var Mute$3 = "ミュート";
     var ja = {
       Back: Back$3,
       Enable: Enable$3,
@@ -2381,7 +2425,12 @@
       "Save or discard your changes before creating a profile.": "プロフィールを作成する前に変更を保存または破棄してください。",
       "Delete profile": "プロフィールを削除",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "プロフィール「{name}」とすべての設定を削除しますか？未保存の変更も失われます。",
-      "Switch to another active profile in Mode before deleting this profile.": "このプロフィールを削除する前に、モードで別のプロフィールを有効にしてください。"
+      "Switch to another active profile in Mode before deleting this profile.": "このプロフィールを削除する前に、モードで別のプロフィールを有効にしてください。",
+      "Output volume while recording": "録音中の出力音量",
+      Unchanged: Unchanged$3,
+      "20% of current volume": "現在の音量の20%",
+      Mute: Mute$3,
+      "Could not update recording volume": "録音中の音量を更新できませんでした"
     };
 
     var Back$2 = "Zurück";
@@ -2422,6 +2471,8 @@
     var Released$2 = "Losgelassen";
     var ms$2 = "ms";
     var Paste$2 = "Einfügen (Standard)";
+    var Unchanged$2 = "Unverändert";
+    var Mute$2 = "Stumm";
     var de = {
       Back: Back$2,
       Enable: Enable$2,
@@ -2681,7 +2732,12 @@
       "Save or discard your changes before creating a profile.": "Speichere oder verwirf deine Änderungen, bevor du ein Profil erstellst.",
       "Delete profile": "Profil löschen",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Profil „{name}“ und alle Einstellungen löschen? Ungespeicherte Änderungen gehen ebenfalls verloren.",
-      "Switch to another active profile in Mode before deleting this profile.": "Aktiviere unter Modus ein anderes Profil, bevor du dieses Profil löschst."
+      "Switch to another active profile in Mode before deleting this profile.": "Aktiviere unter Modus ein anderes Profil, bevor du dieses Profil löschst.",
+      "Output volume while recording": "Ausgabelautstärke während der Aufnahme",
+      Unchanged: Unchanged$2,
+      "20% of current volume": "20% der aktuellen Lautstärke",
+      Mute: Mute$2,
+      "Could not update recording volume": "Aufnahmelautstärke konnte nicht aktualisiert werden"
     };
 
     var Back$1 = "Retour";
@@ -2722,6 +2778,8 @@
     var Released$1 = "Relâché";
     var ms$1 = "ms";
     var Paste$1 = "Coller (par défaut)";
+    var Unchanged$1 = "Inchangé";
+    var Mute$1 = "Couper le son";
     var fr = {
       Back: Back$1,
       Enable: Enable$1,
@@ -2981,7 +3039,12 @@
       "Save or discard your changes before creating a profile.": "Enregistrez ou abandonnez vos modifications avant de créer un profil.",
       "Delete profile": "Supprimer le profil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Supprimer le profil « {name} » et tous ses paramètres ? Les modifications non enregistrées seront également perdues.",
-      "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil."
+      "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil.",
+      "Output volume while recording": "Volume de sortie pendant l’enregistrement",
+      Unchanged: Unchanged$1,
+      "20% of current volume": "20% du volume actuel",
+      Mute: Mute$1,
+      "Could not update recording volume": "Impossible de modifier le volume pendant l’enregistrement"
     };
 
     var Back = "返回";
@@ -3022,6 +3085,8 @@
     var Released = "松开";
     var ms = "毫秒";
     var Paste = "粘贴（默认）";
+    var Unchanged = "保持不变";
+    var Mute = "静音";
     var zh = {
       Back: Back,
       Enable: Enable,
@@ -3281,7 +3346,12 @@
       "Save or discard your changes before creating a profile.": "创建配置前，请保存或放弃更改。",
       "Delete profile": "删除配置",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "删除配置“{name}”及其所有设置？未保存的更改也将丢失。",
-      "Switch to another active profile in Mode before deleting this profile.": "删除此配置前，请在模式菜单中激活其他配置。"
+      "Switch to another active profile in Mode before deleting this profile.": "删除此配置前，请在模式菜单中激活其他配置。",
+      "Output volume while recording": "录音时的输出音量",
+      Unchanged: Unchanged,
+      "20% of current volume": "当前音量的20%",
+      Mute: Mute,
+      "Could not update recording volume": "无法更新录音音量"
     };
 
     const catalogs = { en: en$1, es, ru, pt, pl, ko, ja, de, fr, zh };
@@ -4280,6 +4350,7 @@
     const setRememberLastChannelRpc = callable("set_remember_last_channel");
     const setShareDiagnosticsRpc = callable("set_share_diagnostics");
     const setRecordingIndicatorRpc = callable("set_recording_indicator");
+    const setRecordingVolumeRpc = callable("set_recording_volume");
     const setHapticFeedbackRpc = callable("set_haptic_feedback");
     const setActivePresetRpc = callable("set_active_preset");
     const setModelSizeRpc = callable("set_model_size");
@@ -4557,6 +4628,7 @@
         const [controllerComboSupported, setControllerComboSupported] = React.useState(true);
         const [buttons, setButtons] = React.useState(["L1", "R1"]);
         const [recordingIndicator, setRecordingIndicator] = React.useState("toast");
+        const [recordingVolume, setRecordingVolume] = React.useState("off");
         const [hapticFeedback, setHapticFeedback] = React.useState(false);
         const [activePreset, setActivePreset] = React.useState("wow");
         const [presets, setPresets] = React.useState([]);
@@ -4756,6 +4828,7 @@
                         }
                         const indicator = config.recordingIndicator || (config.showNotifications === false ? "none" : "toast");
                         setRecordingIndicator(indicator);
+                        setRecordingVolume(config.recordingVolume || "off");
                         logic.recordingIndicator = indicator;
                         if (config.hapticFeedback !== undefined) {
                             setHapticFeedback(config.hapticFeedback);
@@ -5404,6 +5477,20 @@
                                     }
                                 } }))),
                     React__default["default"].createElement(deckyFrontendLib.PanelSection, { title: t("Feedback") },
+                        React__default["default"].createElement(deckyFrontendLib.PanelSectionRow, null,
+                            React__default["default"].createElement(deckyFrontendLib.DropdownItem, { label: t("Output volume while recording"), menuLabel: t("Output volume while recording"), rgOptions: [{ data: "off", label: t("Unchanged") }, { data: "quiet", label: t("20% of current volume") }, { data: "mute", label: t("Mute") }], selectedOption: recordingVolume, onChange: async (option) => {
+                                    try {
+                                        const mode = option.data;
+                                        const result = await setRecordingVolumeRpc(mode);
+                                        if (result.success)
+                                            setRecordingVolume(mode);
+                                        else
+                                            setRpcError(result.error || t("Could not update recording volume"));
+                                    }
+                                    catch (error) {
+                                        setRpcError(String(error));
+                                    }
+                                } })),
                         React__default["default"].createElement(deckyFrontendLib.PanelSectionRow, null,
                             React__default["default"].createElement(deckyFrontendLib.DropdownItem, { label: t("Recording cue"), menuLabel: t("Recording cue"), rgOptions: [{ data: "toast", label: t("Toast") }, { data: "overlay", label: t("Overlay") }, { data: "none", label: t("None") }], selectedOption: recordingIndicator, onChange: async (option) => { const mode = option.data; setRecordingIndicator(mode); logic.recordingIndicator = mode; const result = await setRecordingIndicatorRpc(mode); if (!result.success)
                                     setRpcError(result.error || t("Could not update recording cue")); } })),
