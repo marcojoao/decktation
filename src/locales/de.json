@@ -257,5 +257,9 @@
   "Save or discard your changes before creating a profile.": "Speichere oder verwirf deine Änderungen, bevor du ein Profil erstellst.",
   "Delete profile": "Profil löschen",
   "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Profil „{name}“ und alle Einstellungen löschen? Ungespeicherte Änderungen gehen ebenfalls verloren.",
-  "Switch to another active profile in Mode before deleting this profile.": "Aktiviere unter Modus ein anderes Profil, bevor du dieses Profil löschst."
+  "Switch to another active profile in Mode before deleting this profile.": "Aktiviere unter Modus ein anderes Profil, bevor du dieses Profil löschst.",
+  "Controller input (test build)": "Controller-Eingabe (Testversion)",
+  "SDL 3 (experimental)": "SDL 3 (experimentell)",
+  "Legacy (evdev / HID)": "Bisherige Eingabe (evdev / HID)",
+  "Could not switch controller input": "Controller-Eingabe konnte nicht gewechselt werden"
 }

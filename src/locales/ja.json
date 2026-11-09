@@ -257,5 +257,9 @@
   "Save or discard your changes before creating a profile.": "プロフィールを作成する前に変更を保存または破棄してください。",
   "Delete profile": "プロフィールを削除",
   "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "プロフィール「{name}」とすべての設定を削除しますか？未保存の変更も失われます。",
-  "Switch to another active profile in Mode before deleting this profile.": "このプロフィールを削除する前に、モードで別のプロフィールを有効にしてください。"
+  "Switch to another active profile in Mode before deleting this profile.": "このプロフィールを削除する前に、モードで別のプロフィールを有効にしてください。",
+  "Controller input (test build)": "コントローラー入力（テスト版）",
+  "SDL 3 (experimental)": "SDL 3（実験的）",
+  "Legacy (evdev / HID)": "従来方式（evdev / HID）",
+  "Could not switch controller input": "コントローラー入力を切り替えられませんでした"
 }

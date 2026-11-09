@@ -378,7 +378,11 @@
       "Save or discard your changes before creating a profile.": "Save or discard your changes before creating a profile.",
       "Delete profile": "Delete profile",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.",
-      "Switch to another active profile in Mode before deleting this profile.": "Switch to another active profile in Mode before deleting this profile."
+      "Switch to another active profile in Mode before deleting this profile.": "Switch to another active profile in Mode before deleting this profile.",
+      "Controller input (test build)": "Controller input (test build)",
+      "SDL 3 (experimental)": "SDL 3 (experimental)",
+      "Legacy (evdev / HID)": "Legacy (evdev / HID)",
+      "Could not switch controller input": "Could not switch controller input"
     };
 
     var af = "Afrikaans";
@@ -881,7 +885,11 @@
       "Save or discard your changes before creating a profile.": "Guarda o descarta los cambios antes de crear un perfil.",
       "Delete profile": "Eliminar perfil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "¿Eliminar el perfil \"{name}\" y todos sus ajustes? También se perderán los cambios sin guardar.",
-      "Switch to another active profile in Mode before deleting this profile.": "Activa otro perfil en Modo antes de eliminar este perfil."
+      "Switch to another active profile in Mode before deleting this profile.": "Activa otro perfil en Modo antes de eliminar este perfil.",
+      "Controller input (test build)": "Entrada del mando (versión de prueba)",
+      "SDL 3 (experimental)": "SDL 3 (experimental)",
+      "Legacy (evdev / HID)": "Anterior (evdev / HID)",
+      "Could not switch controller input": "No se pudo cambiar la entrada del mando"
     };
 
     var Back$7 = "Назад";
@@ -1181,7 +1189,11 @@
       "Save or discard your changes before creating a profile.": "Сохраните или отмените изменения перед созданием профиля.",
       "Delete profile": "Удалить профиль",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Удалить профиль «{name}» и все его настройки? Несохранённые изменения также будут потеряны.",
-      "Switch to another active profile in Mode before deleting this profile.": "Перед удалением этого профиля активируйте другой профиль в меню «Режим»."
+      "Switch to another active profile in Mode before deleting this profile.": "Перед удалением этого профиля активируйте другой профиль в меню «Режим».",
+      "Controller input (test build)": "Ввод контроллера (тестовая сборка)",
+      "SDL 3 (experimental)": "SDL 3 (экспериментальный)",
+      "Legacy (evdev / HID)": "Прежний способ (evdev / HID)",
+      "Could not switch controller input": "Не удалось переключить ввод контроллера"
     };
 
     var Back$6 = "Voltar";
@@ -1481,7 +1493,11 @@
       "Save or discard your changes before creating a profile.": "Salve ou descarte suas alterações antes de criar um perfil.",
       "Delete profile": "Excluir perfil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Excluir o perfil \"{name}\" e todas as suas configurações? As alterações não salvas também serão perdidas.",
-      "Switch to another active profile in Mode before deleting this profile.": "Ative outro perfil em Modo antes de excluir este perfil."
+      "Switch to another active profile in Mode before deleting this profile.": "Ative outro perfil em Modo antes de excluir este perfil.",
+      "Controller input (test build)": "Entrada do controle (versão de teste)",
+      "SDL 3 (experimental)": "SDL 3 (experimental)",
+      "Legacy (evdev / HID)": "Anterior (evdev / HID)",
+      "Could not switch controller input": "Não foi possível alterar a entrada do controle"
     };
 
     var Back$5 = "Wstecz";
@@ -1781,7 +1797,11 @@
       "Save or discard your changes before creating a profile.": "Zapisz lub odrzuć zmiany przed utworzeniem profilu.",
       "Delete profile": "Usuń profil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Usunąć profil „{name}” i wszystkie jego ustawienia? Niezapisane zmiany również zostaną utracone.",
-      "Switch to another active profile in Mode before deleting this profile.": "Aktywuj inny profil w menu Tryb przed usunięciem tego profilu."
+      "Switch to another active profile in Mode before deleting this profile.": "Aktywuj inny profil w menu Tryb przed usunięciem tego profilu.",
+      "Controller input (test build)": "Wejście kontrolera (wersja testowa)",
+      "SDL 3 (experimental)": "SDL 3 (eksperymentalne)",
+      "Legacy (evdev / HID)": "Dotychczasowe (evdev / HID)",
+      "Could not switch controller input": "Nie udało się zmienić wejścia kontrolera"
     };
 
     var Back$4 = "뒤로";
@@ -2081,7 +2101,11 @@
       "Save or discard your changes before creating a profile.": "프로필을 만들기 전에 변경 사항을 저장하거나 취소하세요.",
       "Delete profile": "프로필 삭제",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "프로필 \"{name}\" 및 모든 설정을 삭제할까요? 저장하지 않은 변경 사항도 사라집니다.",
-      "Switch to another active profile in Mode before deleting this profile.": "이 프로필을 삭제하기 전에 모드에서 다른 프로필을 활성화하세요."
+      "Switch to another active profile in Mode before deleting this profile.": "이 프로필을 삭제하기 전에 모드에서 다른 프로필을 활성화하세요.",
+      "Controller input (test build)": "컨트롤러 입력 (테스트 빌드)",
+      "SDL 3 (experimental)": "SDL 3 (실험적)",
+      "Legacy (evdev / HID)": "기존 방식 (evdev / HID)",
+      "Could not switch controller input": "컨트롤러 입력을 전환하지 못했습니다"
     };
 
     var Back$3 = "戻る";
@@ -2381,7 +2405,11 @@
       "Save or discard your changes before creating a profile.": "プロフィールを作成する前に変更を保存または破棄してください。",
       "Delete profile": "プロフィールを削除",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "プロフィール「{name}」とすべての設定を削除しますか？未保存の変更も失われます。",
-      "Switch to another active profile in Mode before deleting this profile.": "このプロフィールを削除する前に、モードで別のプロフィールを有効にしてください。"
+      "Switch to another active profile in Mode before deleting this profile.": "このプロフィールを削除する前に、モードで別のプロフィールを有効にしてください。",
+      "Controller input (test build)": "コントローラー入力（テスト版）",
+      "SDL 3 (experimental)": "SDL 3（実験的）",
+      "Legacy (evdev / HID)": "従来方式（evdev / HID）",
+      "Could not switch controller input": "コントローラー入力を切り替えられませんでした"
     };
 
     var Back$2 = "Zurück";
@@ -2681,7 +2709,11 @@
       "Save or discard your changes before creating a profile.": "Speichere oder verwirf deine Änderungen, bevor du ein Profil erstellst.",
       "Delete profile": "Profil löschen",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Profil „{name}“ und alle Einstellungen löschen? Ungespeicherte Änderungen gehen ebenfalls verloren.",
-      "Switch to another active profile in Mode before deleting this profile.": "Aktiviere unter Modus ein anderes Profil, bevor du dieses Profil löschst."
+      "Switch to another active profile in Mode before deleting this profile.": "Aktiviere unter Modus ein anderes Profil, bevor du dieses Profil löschst.",
+      "Controller input (test build)": "Controller-Eingabe (Testversion)",
+      "SDL 3 (experimental)": "SDL 3 (experimentell)",
+      "Legacy (evdev / HID)": "Bisherige Eingabe (evdev / HID)",
+      "Could not switch controller input": "Controller-Eingabe konnte nicht gewechselt werden"
     };
 
     var Back$1 = "Retour";
@@ -2981,7 +3013,11 @@
       "Save or discard your changes before creating a profile.": "Enregistrez ou abandonnez vos modifications avant de créer un profil.",
       "Delete profile": "Supprimer le profil",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Supprimer le profil « {name} » et tous ses paramètres ? Les modifications non enregistrées seront également perdues.",
-      "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil."
+      "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil.",
+      "Controller input (test build)": "Entrée manette (version de test)",
+      "SDL 3 (experimental)": "SDL 3 (expérimental)",
+      "Legacy (evdev / HID)": "Ancien système (evdev / HID)",
+      "Could not switch controller input": "Impossible de changer l’entrée manette"
     };
 
     var Back = "返回";
@@ -3281,7 +3317,11 @@
       "Save or discard your changes before creating a profile.": "创建配置前，请保存或放弃更改。",
       "Delete profile": "删除配置",
       "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "删除配置“{name}”及其所有设置？未保存的更改也将丢失。",
-      "Switch to another active profile in Mode before deleting this profile.": "删除此配置前，请在模式菜单中激活其他配置。"
+      "Switch to another active profile in Mode before deleting this profile.": "删除此配置前，请在模式菜单中激活其他配置。",
+      "Controller input (test build)": "控制器输入（测试版本）",
+      "SDL 3 (experimental)": "SDL 3（实验性）",
+      "Legacy (evdev / HID)": "旧版（evdev / HID）",
+      "Could not switch controller input": "无法切换控制器输入"
     };
 
     const catalogs = { en: en$1, es, ru, pt, pl, ko, ja, de, fr, zh };
@@ -5467,7 +5507,7 @@
                             React__default["default"].createElement(deckyFrontendLib.ButtonItem, { layout: "below", onClick: () => setPage("microphone-help") }, t("Having problems with your microphone?")))),
                     React__default["default"].createElement(deckyFrontendLib.PanelSection, { title: t("Input and service") },
                         React__default["default"].createElement(deckyFrontendLib.PanelSectionRow, null,
-                            React__default["default"].createElement(deckyFrontendLib.DropdownItem, { label: t("Controller input (test build)"), menuLabel: t("Controller input (test build)"), rgOptions: [{ data: "sdl", label: "SDL 3 (experimental)" }, { data: "legacy", label: t("Legacy (evdev / HID)") }], selectedOption: controllerBackend, onChange: async (option) => { const backend = option.data; const result = await setControllerBackendRpc(backend); if (result.success)
+                            React__default["default"].createElement(deckyFrontendLib.DropdownItem, { label: t("Controller input (test build)"), menuLabel: t("Controller input (test build)"), rgOptions: [{ data: "sdl", label: t("SDL 3 (experimental)") }, { data: "legacy", label: t("Legacy (evdev / HID)") }], selectedOption: controllerBackend, onChange: async (option) => { const backend = option.data; const result = await setControllerBackendRpc(backend); if (result.success)
                                     setControllerBackend(backend);
                                 else
                                     setRpcError(result.error || t("Could not switch controller input")); } })),

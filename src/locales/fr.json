@@ -257,5 +257,9 @@
   "Save or discard your changes before creating a profile.": "Enregistrez ou abandonnez vos modifications avant de créer un profil.",
   "Delete profile": "Supprimer le profil",
   "Delete profile \"{name}\" and all its settings? Unsaved changes will also be lost.": "Supprimer le profil « {name} » et tous ses paramètres ? Les modifications non enregistrées seront également perdues.",
-  "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil."
+  "Switch to another active profile in Mode before deleting this profile.": "Activez un autre profil dans Mode avant de supprimer ce profil.",
+  "Controller input (test build)": "Entrée manette (version de test)",
+  "SDL 3 (experimental)": "SDL 3 (expérimental)",
+  "Legacy (evdev / HID)": "Ancien système (evdev / HID)",
+  "Could not switch controller input": "Impossible de changer l’entrée manette"
 }
