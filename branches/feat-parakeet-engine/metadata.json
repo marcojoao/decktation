@@ -1,0 +1,8 @@
+{
+  "plugin": "Decktation",
+  "channel": "branch",
+  "ref": "feat/parakeet-engine",
+  "commit": "d5c655553ab4e00af233ddf314512cc7ea9cd99c",
+  "zip_url": "https://marcojoao.github.io/decktation/branches/feat-parakeet-engine/Decktation.zip",
+  "generated_at": "2026-11-10T01:40:56Z"
+}
